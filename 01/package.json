@@ -1,0 +1,20 @@
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "simple tutorial to deploy b/e server",
+    "keywords": [
+        "node",
+        "git"
+    ],
+    "license": "ISC",
+    "author": "dark soul",
+    "type": "commonjs",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "dotenv": "^16.4.7",
+        "express": "^4.21.2"
+    }
+}
