@@ -1,0 +1,16 @@
+{
+    "name": "03datamodel",
+    "version": "1.0.0",
+    "description": "Discussion about data modeling",
+    "license": "ISC",
+    "author": "dark soul",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^5.1.0",
+        "mongoose": "^8.13.1"
+    }
+}
