@@ -1,0 +1,12 @@
+{
+   "name": "04megabe",
+   "version": "1.0.0",
+   "description": "mega project in backend series of chai aur code",
+   "license": "ISC",
+   "author": "dark soul",
+   "type": "module",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   }
+}
